@@ -1,0 +1,38 @@
+{
+  "name": "isc-coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev-test": "nodemon dev-test",
+    "start": "node ./app",
+    "dev": "nodemon ./app"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murtazalimtiaz/isc-coin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murtazalimtiaz/isc-coin/issues"
+  },
+  "homepage": "https://github.com/murtazalimtiaz/isc-coin#readme",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.3",
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.0",
+    "ws": "^7.3.1"
+  }
+}
