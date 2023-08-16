@@ -1,5 +1,5 @@
 {
-  "name": "isc-coin",
+  "name": "just-a-coin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murtazalimtiaz/isc-coin.git"
+    "url": "git+https://github.com/murtazalimtiaz/just-a-coin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/murtazalimtiaz/isc-coin/issues"
+    "url": "https://github.com/murtazalimtiaz/just-a-coin/issues"
   },
-  "homepage": "https://github.com/murtazalimtiaz/isc-coin#readme",
+  "homepage": "https://github.com/murtazalimtiaz/just-a-coin#readme",
   "devDependencies": {
     "jest": "^26.1.0",
     "nodemon": "^2.0.4"

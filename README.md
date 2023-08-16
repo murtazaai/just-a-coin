@@ -1,1 +1,1 @@
-# isc-coin
+# A coin with Proof-of-Work consensus, and wallets.
